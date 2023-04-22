@@ -1,0 +1,35 @@
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  label {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+  }
+
+  button[type="submit"] {
+    background-color: #fd9696;
+    color: rgb(0, 0, 0);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+    flex: content;
+    align-content: center;
+    
+  }
+  h1{
+    font-family: sans-serif;
+    background-color: #fd9696;
+    border: none;
+    border-radius: 5px;
+  }

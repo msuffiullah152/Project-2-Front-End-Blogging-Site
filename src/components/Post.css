@@ -1,0 +1,27 @@
+.card {
+    padding: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 1;
+    font-size: 1rem;
+    margin-top: 0;
+    margin-left: 0;
+  }
+  .card img {
+    width: 200px;
+    height: 200px;
+    display: flex;
+  
+  
+  }
+  
+  
+  .main-content {
+    display: flex;
+   flex-direction: row;
+    min-height: 100vh;
+    margin-top: 60px;
+    margin-bottom: 100px;
+  }
+  
+  
